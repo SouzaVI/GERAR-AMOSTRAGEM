@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/GRID" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
