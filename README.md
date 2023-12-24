@@ -1,7 +1,3 @@
-** Extensão para QGIS: Distribuição Georreferenciada de Pontos de Amostras**
-
----
-
 ## Introdução
 
 Esta ferramenta  tem como objetivo facilitar a distribuição georreferenciada de pontos de amostras em Talhões, proporcionando uma abordagem eficiente e personalizada para otimizar o processo de geração de amostragem
