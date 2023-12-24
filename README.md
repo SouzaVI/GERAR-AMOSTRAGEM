@@ -20,3 +20,7 @@ Durante o desenvolvimento deste plugin, enfrentamos os seguintes desafios:
 ## Requisitos do Sistema
 
 Este plugin foi desenvolvido e testado para funcionar com o QGIS versão 3.28 ou superior.
+
+## Tela e produtos
+![tela gerar amostras](https://github.com/SouzaVI/GERAR-AMOSTRAGEM/assets/98165012/8454c915-ec40-44bf-9f05-acf503f4c6f8)
+![produto](https://github.com/SouzaVI/GERAR-AMOSTRAGEM/assets/98165012/0eb5439b-bd29-4a59-8bd9-3d92c82a1cfe)
