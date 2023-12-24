@@ -7,7 +7,7 @@ O desenvolvimento desta extensão foi motivado pelo desejo de superar as limita�
 
 ## Desafios Enfrentados
 
-Durante o desenvolvimento deste plugin, enfrentamos os seguintes desafios:
+Durante o desenvolvimento deste plugin, enfrentou-se os seguintes desafios:
 
 - **Adaptação a diferentes formatos de fazendas:** A variedade de geometrias de fazendas exigiu uma lógica flexível de distribuição que pudesse se ajustar a diferentes contextos.
 
